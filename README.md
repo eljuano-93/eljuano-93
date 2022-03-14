@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects related to legal management, legal engineering, AI processes and data management 
      or any IT field in which I can collaborate with my knowledge.
 - 📫 How to reach me:
-    - 🔗<a href="www.linkedin.com/in/juanignaciobertellotti" target="_blank" rel="noreferrer noopener"></a> 
+    - 🔗www.linkedin.com/in/juanignaciobertellotti 
     - 📧<a href="mailto: juanignaciobertellotti@gmail.com">Send me an email!</a>
     
 
