@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eljuano-93. Argentinian lawyer and IT enthusiastic.
-     I'm from Argentina. I speak spanish and english. Also I'm learning italian and german.
+     I'm from Argentina. I speak spanish and english. I'm learning italian and german also.
 - 👀 I’m interested in AI innovation, legal engeneering, legal management and data analysis.
 - 🌱 I’m currently learning Python, SQL, Web Development, and so on...
 - 💞️ I’m looking to collaborate on projects related to legal management, legal engineering, AI processes and data management 
